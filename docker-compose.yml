@@ -13,4 +13,4 @@ services:
     build:
       context: ./PythonApp
     ports:
-      - "5000:5000"
+      - "5050:5050"
